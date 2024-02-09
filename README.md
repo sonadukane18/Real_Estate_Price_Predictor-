@@ -3,7 +3,7 @@ Using the dataset of house prices with some `features` like no. of bathrooms, no
 
 # Tech Stack
 
-* Jupyter Notebook for the Data Analysis, Data Cleaning and Modelling
+* `Jupyter Notebook` for the Data Analysis, Data Cleaning and Modelling
 * Import the model through `pickle` file
 * Create the Python `Flask` server 
 * HTML, CSS, JavaScript for the frontend  
